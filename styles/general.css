@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+.youtube-clone {
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 74px;
+  padding-bottom: 30px;
+  padding-left: 92px;
+  padding-right: 24px;
+  background-color: rgb(249, 249, 249);
+}
+a {
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,30 @@
+.side-bar {
+  position: fixed;
+  top: 56px;
+  left: 0%;
+  bottom: 0%;
+  width: 72px;
+  padding-top: 4px;
+  background-color: white;
+  z-index: 20;
+}
+.side-bar img {
+  width: 24px;
+}
+.side-nav {
+  font-size: 10px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 74px;
+  transition: background-color 0.15s;
+}
+.side-nav img {
+  margin-bottom: 6.5px;
+}
+.side-nav:hover {
+  background-color: rgb(238, 238, 238);
+}
